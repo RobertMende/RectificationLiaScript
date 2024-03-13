@@ -16,6 +16,7 @@ link:     https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.cs
 
 script:   https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js
           ./index.js
+          https://github.com/RobertMende/RectificationLiaScript/blob/main/index.js
 
 -->
 
